@@ -33,4 +33,4 @@ At the link below you can obtain a copy of the project:
 ## ⚙️ Running the code:
 
 ### Start with the Notebook:
-[My_Learning_With_PySpark-Classification](https://github.com/OtnielGomes/My_learning_Spark_Classifier/blob/main/My_Learning_With_PySpark-Classification.ipynb)
+[My_learning_Spark_Natural-Language-Processing](https://github.com/OtnielGomes/My_learning_Spark_Natural-Language-Processing/blob/main/My_Learning_With_PySpark-NPL.ipynb)
