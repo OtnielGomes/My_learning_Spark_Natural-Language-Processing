@@ -33,4 +33,5 @@ At the link below you can obtain a copy of the project:
 ## ⚙️ Running the code:
 
 ### Start with the Notebook:
+[Extract our database onto your computer](https://github.com/OtnielGomes/My_learning_Spark_Natural-Language-Processing/blob/main/imdb-reviews-pt-br.rar)
 [My_learning_Spark_Natural-Language-Processing](https://github.com/OtnielGomes/My_learning_Spark_Natural-Language-Processing/blob/main/My_Learning_With_PySpark-NPL.ipynb)
