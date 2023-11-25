@@ -7,7 +7,7 @@ As a result of our course project it will be really cool, we will create a funct
 ## 🚀 Starting
 
 At the link below you can obtain a copy of the project:
-* [copy of the project](https://github.com/OtnielGomes/My_learning_Spark_Classifier/archive/refs/heads/main.zip)
+* [copy of the project](https://github.com/OtnielGomes/My_learning_Spark_Natural-Language-Processing/archive/refs/heads/main.zip)
 
 ## 🛠️ Built with:
 
